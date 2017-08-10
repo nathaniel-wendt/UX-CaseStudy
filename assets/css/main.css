@@ -1764,10 +1764,6 @@ a.heavy:hover {
 		h1 {
 			font-size: 2em;
 		}
-
-		.lightbulb {
-			display: block;
-		}
 	}
 
 	sub {
@@ -1865,7 +1861,8 @@ a.heavy:hover {
 
  mark {
 	display: inline-block;
-  padding: 8 1em;
+  padding: 4 1em;
+	font-style: italic;
 	color: #828282;
 	background-color: #f2f2f2;
 	}
@@ -1908,9 +1905,7 @@ a.heavy:hover {
 	min-height: auto;
 }
 
-
-
-/* Box */
+d/* Box */
 
 	.box {
 		border-radius: 8px;
@@ -2521,7 +2516,15 @@ a.heavy:hover {
 
 			.image.main img {
 				width: 100%;
-			}
+		}
+
+img.comp {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
 
 /* List */
 
@@ -3421,7 +3424,7 @@ a.heavy:hover {
 		}
 
 		#main a:hover {
-			color: #636363;
+			color: #ED1E79;
 		}
 
 		#main strong, #main b {
@@ -3498,7 +3501,7 @@ a.heavy:hover {
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #9acff2;
+					background-color: #ED1E79;
 				}
 
 				#main input[type="submit"].special:active,
