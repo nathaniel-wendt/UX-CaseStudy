@@ -1693,10 +1693,9 @@
 		border-bottom-color: transparent;
 	}
 
-a.heavy:hover {
+  a.heavy:hover {
 
-}
-
+  }
 
 	strong, b {
 		font-weight: 400;
@@ -1729,9 +1728,9 @@ a.heavy:hover {
 		letter-spacing: -0.025em;
 	}
 
-		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-			text-decoration: none;
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+		color: inherit;
+		text-decoration: none;
 		}
 
 	h1 {
@@ -1857,6 +1856,7 @@ a.heavy:hover {
 
 	hr {
 		border-bottom-color: rgba(255, 255, 255, 0.35);
+		margin-bottom: 4em;
 	}
 
  mark {
@@ -1870,8 +1870,7 @@ a.heavy:hover {
 .lightbulb {
 	display: flex;
 	flex-flow: row nowrap;
-	justify-content: center;
-	align-content: center;
+	align-content: left;
 }
 
 .lightbulb i {
@@ -1892,7 +1891,7 @@ a.heavy:hover {
 .lightbulb leftbulb {
 	order: 1;
 	flex: 1 1 auto;
-	align-self: auto;
+	align-self: left;
 	min-width: 0;
 	min-height: auto;
 }
@@ -2522,7 +2521,7 @@ img.comp {
 	max-width: 100%;
 	display: block;
 	height: auto;
-	margin: 0 auto;
+	padding-bottom: 1cm;
 }
 
 
