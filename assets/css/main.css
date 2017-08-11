@@ -2521,6 +2521,7 @@ img.comp {
 	max-width: 100%;
 	display: block;
 	height: auto;
+	margin: 0 auto;
 	padding-bottom: 1cm;
 }
 
