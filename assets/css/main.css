@@ -1670,7 +1670,6 @@
 			body, input, select, textarea {
 				font-size: 11pt;
 			}
-
 		}
 
 	a {
@@ -1740,7 +1739,7 @@
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2.1em;
 	}
 
 	h2 span {
@@ -1769,6 +1768,10 @@
 
 		h1 {
 			font-size: 2em;
+		}
+
+		h2 {
+			font-size: 2.1em;
 		}
 	}
 
@@ -2817,11 +2820,12 @@ img.comp {
 		}
 
 			header.major h2 {
-				font-size: 1.5em;
+				font-size: 2.1em;
 			}
 
 			header.minor h2 {
 				text-align: center;
+				font-size: 2.1em;
 			}
 
 			header.major p {
@@ -3321,6 +3325,10 @@ img.comp {
 					#header.alt h1 {
 						font-size: 2.5em;
 					}
+
+				#header.alt h2 {
+					font-size: 2.1em;
+				}
 
 		}
 
