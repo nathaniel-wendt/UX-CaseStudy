@@ -1742,6 +1742,12 @@
 		font-size: 1.5em;
 	}
 
+	h2 span {
+		font-size: 16px;
+		float: right;
+		color: #808080;
+	}
+
 	h3 {
 		font-size: 1.25em;
 	}
@@ -1871,6 +1877,7 @@
 	display: flex;
 	flex-flow: row nowrap;
 	align-content: left;
+	margin-top: 40px;
 }
 
 .lightbulb i {
