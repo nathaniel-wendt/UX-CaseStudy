@@ -1739,7 +1739,7 @@
 	}
 
 	h2 {
-		font-size: 2.1em;
+		font-size: 1.5em;
 	}
 
 	h2 span {
@@ -1771,7 +1771,15 @@
 		}
 
 		h2 {
-			font-size: 2.1em;
+			font-size: 1.5em;
+		}
+
+		h2 span {
+			font-size: .55em;
+		}
+
+		h3 {
+			font-size: 1.5em;
 		}
 	}
 
