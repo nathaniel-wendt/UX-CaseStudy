@@ -1734,7 +1734,7 @@
 		}
 
 	h1 {
-		font-size: 2.5em;
+		font-size: 2em;
 		line-height: 1.2;
 	}
 
@@ -1767,7 +1767,7 @@
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 2em;
+			font-size: 1.5em;
 		}
 
 		h2 {
@@ -3243,7 +3243,7 @@ img.comp {
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 1em;
 			letter-spacing: -0.025em;
 		}
 
@@ -3252,7 +3252,7 @@ img.comp {
 		}
 
 			#header.alt h1 {
-				font-size: 3.25em;
+				font-size: 2.5em;
 			}
 
 			#header.alt > * {
@@ -3335,7 +3335,7 @@ img.comp {
 					}
 
 				#header.alt h2 {
-					font-size: 2.1em;
+					font-size: 1.8em;
 				}
 
 		}
@@ -3578,7 +3578,7 @@ img.comp {
 			#main input[type="button"].special,
 			#main button.special,
 			#main .button.special {
-				background-color: #5AB9Ea;
+				background-color: #5C9AC8;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
@@ -3588,7 +3588,7 @@ img.comp {
 			#main input[type="button"].call,
 			#main button.call,
 			#main .button.call {
-				background-color: #afcd23;
+				background-color: #AFCD23;
 				color: #ffffff !important;
 				box-shadow: none;
 			}
