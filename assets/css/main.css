@@ -1617,8 +1617,7 @@
 	}
 
 	body {
-		background: #00aa77;
-
+		background: #5C5176;
 		background-image: url("images/ZenBG.png"), -moz-linear-gradient(45deg, #5c7492 15%, #5f4d93 85%);
 		background-image: url("images/ZenBG.png"), -webkit-linear-gradient(45deg, #5c7492 15%, #5f4d93 85%);
 		background-image: url("images/ZenBG.png"), -ms-linear-gradient(45deg, #5c7492 15%, #5f4d93 85%);
